@@ -12,7 +12,7 @@ install = "*"
 google-search-results = "*"
 tweepy = "*"
 flask = "*"
-langchain-openai = "*"
+p
 python-dotenv = "*"
 langchain-community = "*"
 pydantic = "==v1.10.13"
